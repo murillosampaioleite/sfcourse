@@ -1,5 +1,4 @@
 /logs
-/symfony/*
 /.data
 
 .idea/**/workspace.xml
